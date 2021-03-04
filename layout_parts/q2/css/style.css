@@ -16,14 +16,12 @@
 .q2__content__text{
   font-size: 18px;
   line-height: 22px;
+  float: left;
+  margin: 10px 10px;
+  vertical-align: text-top;
+}
+img{
+  max-width: 100%;
 }
 
-.q2__content__box{
-  float: left;
-  margin-right: 20px;
-}
-.q2__content__box__right{
-  float: right;
-  margin-left: 20px;
-}
 /* 回答はここに書いてね */
