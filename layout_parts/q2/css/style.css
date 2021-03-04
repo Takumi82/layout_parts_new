@@ -16,12 +16,15 @@
 .q2__content__text{
   font-size: 18px;
   line-height: 22px;
-  float: left;
   margin: 10px 10px;
   vertical-align: text-top;
 }
+.q2{
+  float: left;
+}
 img{
   max-width: 100%;
+  margin: 10px 20px;
 }
 
 /* 回答はここに書いてね */
